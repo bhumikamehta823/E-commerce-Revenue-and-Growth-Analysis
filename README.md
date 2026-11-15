@@ -54,6 +54,14 @@ Analyzed the number of days taken to ship orders to understand delivery performa
 ### 7. Customer Satisfaction
 Evaluated customer ratings across different months to understand customer satisfaction levels.
 
+
+## 🎥 Dashboard Demo
+
+Watch the video demonstration of my E-commerce Revenue and Growth Analysis dashboard.
+
+[▶ Watch Dashboard Demo](./E-commerce%20dashboard%20VIDEO.mp4)
+
+
 ## Interactive Features
 
 - Order Mode Slicer
