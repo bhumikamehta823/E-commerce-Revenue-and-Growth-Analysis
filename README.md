@@ -17,7 +17,7 @@ An interactive Excel dashboard was developed using Pivot Tables, Pivot Charts, a
 
 ## Dashboard Preview
 
-![E-commerce Dashboard](dashboard/dashboard_preview.png)
+![E-commerce Revenue and Growth Analysis](dashboard/E-commerce%20revenue%20and%20growth%20analysis.png)
 
 ## Key Performance Indicators (KPIs)
 
