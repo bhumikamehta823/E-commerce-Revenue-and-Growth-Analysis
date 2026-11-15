@@ -58,7 +58,7 @@ Evaluated customer ratings across different months to understand customer satisf
 
 **Note:** The original Excel workbook is currently unavailable. However, you can explore the dashboard's visuals, features, and analysis by watching the video demonstration attached to this repository.
 
-🎥 **[Watch the Dashboard Demonstration](PASTE_YOUR_VIDEO_LINK_HERE)**
+🎥 **[Watch the Dashboard Demonstration](https://youtu.be/WdjPgiKs3m8)**
 
 
 ## Interactive Features
