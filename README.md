@@ -53,14 +53,12 @@ Analyzed the number of days taken to ship orders to understand delivery performa
 
 ### 7. Customer Satisfaction
 Evaluated customer ratings across different months to understand customer satisfaction levels.
+ 
+## 📊 Dashboard Demonstration
 
+**Note:** The original Excel workbook is currently unavailable. However, you can explore the dashboard's visuals, features, and analysis by watching the video demonstration attached to this repository.
 
-
-## 🎥 Dashboard Demonstration
-
-Watch my E-commerce Revenue and Growth Analysis dashboard in action:
-
-[▶ Click here to view the dashboard video](https://github.com/bhumikamehta823/E-commerce-Revenue-and-Growth-Analysis/blob/main/E-commerce%20dashboard%20VIDEO.mp4)
+🎥 **[Watch the Dashboard Demonstration](PASTE_YOUR_VIDEO_LINK_HERE)**
 
 
 ## Interactive Features
