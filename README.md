@@ -55,11 +55,12 @@ Analyzed the number of days taken to ship orders to understand delivery performa
 Evaluated customer ratings across different months to understand customer satisfaction levels.
 
 
-## 🎥 Dashboard Demo
 
-Watch the video demonstration of my E-commerce Revenue and Growth Analysis dashboard.
+## 🎥 Dashboard Demonstration
 
-[▶ Watch Dashboard Demo](./E-commerce%20dashboard%20VIDEO.mp4)
+Watch my E-commerce Revenue and Growth Analysis dashboard in action:
+
+[▶ Click here to view the dashboard video](https://github.com/bhumikamehta823/E-commerce-Revenue-and-Growth-Analysis/blob/main/E-commerce%20dashboard%20VIDEO.mp4)
 
 
 ## Interactive Features
